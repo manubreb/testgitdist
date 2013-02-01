@@ -1,0 +1,4 @@
+testgitdist
+===========
+
+Test utilisation GIT
